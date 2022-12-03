@@ -23,6 +23,7 @@
       <input type="password" name="password" autocomplete="off">
  </p>
     <p><button>Login</button></p>
+	<input type="button" onclick="window.location.href='signup.php';" value="Company Signup" />
  </form>
  
  <?php
